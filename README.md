@@ -1,2 +1,2 @@
-# LLM-Inferring-RoadMap
+# LLM-Reasoning-RoadMap
 Paper collections and leaderboard
